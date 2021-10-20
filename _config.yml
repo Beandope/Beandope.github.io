@@ -30,17 +30,17 @@ linkedin_username: yulong-zheng-aa71a0128
 # xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: jekyll
-googlescholar_username: pcLymh4AAAAJ&hl=en
-orcid_username: 0000-0000-0000-0000
+google_username: pcLymh4AAAAJ&hl=en
+# orcid_username: 0000-0000-0000-0000
 
-# Additional icon links
-additional_links:
-- title: Link name
-  icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-  url: Link url (eg. https://google.com)
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+# # Additional icon links
+# additional_links:
+# - title: Link name
+#   icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
+# # - title: another link
+# #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+# #   url: Link url (eg. https://google.com)
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
@@ -61,24 +61,26 @@ about_content: | # this will include new lines to allow paragraphs
     - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
-  - title: Projects # Title for the section
+  - title: Research Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Project name
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
+        title: Investigation of Charge Screening Effects in P3HT:Ionic Liquid Blends
+#         link: https://github.com/Beandope/UV_and_PL
+#         link_text: Link Text
         additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          - title: Codes for data analysis and visulization
             icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: >
-          Short overview of the project (optional)
+            url: https://github.com/Beandope/UV_and_PL
+#         quote: >
+#           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+          This work focuses on understanding the charge screening effects in the blended pi-conjugated polymer systems. P3HTs are one of the classical material templates 
+          as used for testing the electronic and optical properties of polymer semiconductors. Here, the P3HTs are blended with ionic liquid, as prepared by Seong-Min Kim, 
+          a previous postdoc from [Dr. Stingelin lab](http://stingelin-lab.gatech.edu),
+          
+          
+        
   - title: Experience
     layout: list
     content:

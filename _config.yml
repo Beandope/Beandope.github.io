@@ -50,15 +50,18 @@ google_username: pcLymh4AAAAJ&hl=en
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: /Users/yulongzheng/Pictures/selfie.jpeg (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+  Born and raised in Hubei, China. 
+  Have been to a few places around the world. fab fa-china, fab fa-canada, fab fa-usa, fab fa-cuba
+  Always excited about high tech. so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  A chemist who does not too chemistry stuff.
+  
+  #You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
+  #  - Lists
+  #  - Tables
+  #  - <a href="google.com">Links</a>
+  #  - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
   - title: Research Projects # Title for the section

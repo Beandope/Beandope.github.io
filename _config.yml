@@ -65,7 +65,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Investigation of Charge Screening Effects in P3HT:Ionic Liquid Blends
+        title: Charge Screening Effects in P3HT:Ionic Liquid Blends
 #         link: https://github.com/Beandope/UV_and_PL
 #         link_text: Link Text
         additional_links:
@@ -76,34 +76,45 @@ content:
 #           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
           This work focuses on understanding the charge screening effects in the blended pi-conjugated polymer systems. P3HTs are one of the classical material templates 
-          as used for testing the electronic and optical properties of polymer semiconductors. Here, the P3HTs are blended with ionic liquid, as prepared by Seong-Min Kim, 
-          a previous postdoc from [Dr. Stingelin lab](http://stingelin-lab.gatech.edu),
-          
-          
+          used for testing the electronic and optical properties of polymer semiconductors. Here, the P3HTs are blended with ionic liquid, as prepared by Seong-Min Kim, 
+          a previous postdoc from [Dr. Stingelin lab](http://stingelin-lab.gatech.edu). The blended solutions are casted at different temperatures to control the polymer-ionic
+          liquid mixing:
+          - Performed steady-state and temperature-dependent PL to examine the exciton interchain interactions and bandwidths.
+          - Developed a Python script based on Franck-Condon progression to simulate and extract essential spectral parameters.
+          - Conducted TCSPC and Fluorescence Upconversion measurements to investigate the exciton dynamics from femto-microsecond time range.
+          - Built an extended free-space beam path for the ability to measure time-resolved PL under a large range of temperatures.
+     
+        title： Exciton Dynamics in Electron Push-Pull Polymers
+
         
   - title: Experience
     layout: list
     content:
       - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
-        quote: >
-          Short description of the company (optional)
+        title: Silva Lab
+        sub_title: Graduate Researcher
+        caption: April 2019 - present
+#         link: Link to company (optional)
+#         quote: >
+#           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          • Hands-on experiences on linear and nonlinear high harmonic generation with amplified laser systems, OPA and NOPA, to create high-power and broad-bandwidth pulses.
+          • Extensive working experiences with free-space nonlinear, ultrafast spectroscopy systems, such as transient absorption (TA), time-correlated single photon counting (TCSPC), fluorescence upconversion, photoluminescence (PL)-detected two-dimensional electronic spectroscopy.
+          • Hands-on experiences on optical metrology measurements such as absorption and PL spectroscopy, atomic force microscopy (AFM), dynamic and static light scattering (DLS/SLS), cross-polarized optical microscopy (CPOM).
+          • Experiences in building simulation models in calculating optical features of organic semiconductor polymers as well as data analysis and visualization using Python.
+  
   - title: Education
     layout: list
     content:
       - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
+        title: Georgia Institute of Technology
+        sub_title: Ph.D. Candidate in Physical Chemistry
+        caption: August 2018 - present
         quote: >
           Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
-          Description of qualification
+          Specialized in nonlinear, ultrafast spectroscopy, solid-state physics.
+          
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs

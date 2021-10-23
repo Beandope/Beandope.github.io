@@ -50,7 +50,7 @@ google_username: pcLymh4AAAAJ&hl=en
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: images/selfie.jpg (eg. images/profile.jpg)
+about_profile_image: /images/selfie.jpg (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
   - Born and raised in Hubei, China. 
   - Have been to/lived in a few places around the world.

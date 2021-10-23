@@ -53,15 +53,15 @@ google_username: pcLymh4AAAAJ&hl=en
 about_profile_image: /Users/yulongzheng/Pictures/selfie.jpeg (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
   Born and raised in Hubei, China. 
-  Have been to a few places around the world. fab fa-china, fab fa-canada, fab fa-usa, fab fa-cuba
-  Always excited about high tech. so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  Have been to/lived in a few places around the world.
+  Always excited about high tech.
   A chemist who does not too chemistry stuff.
   
-  #You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-  #  - Lists
-  #  - Tables
-  #  - <a href="google.com">Links</a>
-  #  - Images ![alt text](/images/landscape-trees.jpg "Trees")
+  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
+    - Lists
+    - Tables
+    - <a href="google.com">Links</a>
+    - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
   - title: Research Projects # Title for the section
@@ -101,10 +101,10 @@ content:
 #         quote: >
 #           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-          • Hands-on experiences on linear and nonlinear high harmonic generation with amplified laser systems, OPA and NOPA, to create high-power and broad-bandwidth pulses.
-          • Extensive working experiences with free-space nonlinear, ultrafast spectroscopy systems, such as transient absorption (TA), time-correlated single photon counting (TCSPC), fluorescence upconversion, photoluminescence (PL)-detected two-dimensional electronic spectroscopy.
-          • Hands-on experiences on optical metrology measurements such as absorption and PL spectroscopy, atomic force microscopy (AFM), dynamic and static light scattering (DLS/SLS), cross-polarized optical microscopy (CPOM).
-          • Experiences in building simulation models in calculating optical features of organic semiconductor polymers as well as data analysis and visualization using Python.
+          - Hands-on experiences on linear and nonlinear high harmonic generation with amplified laser systems, OPA and NOPA, to create high-power and broad-bandwidth pulses.
+          - Extensive working experiences with free-space nonlinear, ultrafast spectroscopy systems, such as transient absorption (TA), time-correlated single photon counting (TCSPC), fluorescence upconversion, photoluminescence (PL)-detected two-dimensional electronic spectroscopy.
+          - Hands-on experiences on optical metrology measurements such as absorption and PL spectroscopy, atomic force microscopy (AFM), dynamic and static light scattering (DLS/SLS), cross-polarized optical microscopy (CPOM).
+          - Experiences in building simulation models in calculating optical features of organic semiconductor polymers as well as data analysis and visualization using Python.
   
   - title: Education
     layout: list
@@ -113,8 +113,8 @@ content:
         title: Georgia Institute of Technology
         sub_title: Ph.D. Candidate in Physical Chemistry
         caption: August 2018 - present
-        quote: >
-          Short institution or course description (optional)
+#         quote: >
+#           Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
           Specialized in nonlinear, ultrafast spectroscopy, solid-state physics.
           

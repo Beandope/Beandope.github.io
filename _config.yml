@@ -95,7 +95,34 @@ content:
           - Hands-on experiences on optical metrology measurements such as absorption and PL spectroscopy, atomic force microscopy (AFM), dynamic and static light scattering (DLS/SLS), cross-polarized optical microscopy (CPOM).
           - Experiences in building simulation models in calculating optical features of organic semiconductor polymers as well as data analysis and visualization using Python.
   
+  - title: 
+    layout: list
+    content:
+      - layout: right
+        title: Duhamel Lab
+        sub_title: Undergraduate Research Assistant
+        caption: May 2017 - present
+#         link: Link to company (optional)
+#         quote: >
+#            Molecular Spectroscopy, Polymer Structure Characterization Waterloo, Canada
+        description: | # this will include new lines to allow paragraphs
+          - Hands on experiences with organic synthesis, and purification methods such as dialysis, precipitation and freeze-dry.
+          - Applied UV, steady-state and time-resolved PL to characterize the content of the dyes and the ratio of excimer to monomer contributions to the total fluorescence spectra.
+          - Adopted home-written Fluorescence Blob Model (FBM) to simulate and analyze the kinetics of the polymer chain movement.
+  
   - title: Education
+    layout: list
+    content:
+      - layout: top-right
+        title: Georgia Institute of Technology
+        sub_title: Ph.D. Candidate in Physical Chemistry
+        caption: August 2018 - present
+#         quote: >
+#           Short institution or course description (optional)
+        description: | # this will include new lines to allow paragraphs
+          Specialized in nonlinear, ultrafast spectroscopy, solid-state physics.
+  
+    - title: 
     layout: list
     content:
       - layout: top-right

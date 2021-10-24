@@ -83,7 +83,7 @@ content:
         title: Silva Lab
         sub_title: Graduate Research Assistant
         caption: April 2019 - present
-        link: [Silva Lab](https://silva.chemistry.gatech.edu)
+#         link: [Silva Lab](https://silva.chemistry.gatech.edu)
         quote: >
 #           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs

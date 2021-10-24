@@ -120,7 +120,7 @@ content:
   #            Molecular Spectroscopy, Polymer Structure Characterization Waterloo, Canada
         description: | # this will include new lines to allow paragraphs
           Ph.D Candidate in physical chemistry, specialized in nonlinear, ultrafast spectroscopy, and solid-state physics.
-    content:
+#     content:
       - layout: right
         title: University of Waterloo
         caption: July 2016 - April 2018

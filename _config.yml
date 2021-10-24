@@ -83,7 +83,7 @@ content:
         title: Silva Lab
         sub_title: Graduate Research Assistant
         caption: April 2019 - present
-#         link: [Silva Lab](https://silva.chemistry.gatech.edu)
+        link: https://silva.chemistry.gatech.edu
         quote: >
 #           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
@@ -101,7 +101,7 @@ content:
         title: Duhamel Lab
         sub_title: Undergraduate Research Assistant
         caption: May 2017 - present
-        link: [Profile for Dr. Jean Duhamel](https://uwaterloo.ca/chemistry/people-profiles/jean-duhamel)
+        link: https://uwaterloo.ca/chemistry/people-profiles/jean-duhamel
 #         quote: >
 #            Molecular Spectroscopy, Polymer Structure Characterization Waterloo, Canada
         description: | # this will include new lines to allow paragraphs

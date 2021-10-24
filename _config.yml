@@ -81,7 +81,7 @@ content:
     layout: list
     content:
       - layout: right
-        title: [Silva Lab](https://silva.chemistry.gatech.edu/)
+        title: [Silva Lab](https://silva.chemistry.gatech.edu)
         sub_title: Graduate Research Assistant
         caption: April 2019 - present
 #         link: Link to company (optional)

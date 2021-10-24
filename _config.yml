@@ -97,18 +97,18 @@ content:
 #   - title: 
 #     layout: list
   - content:
-    - layout: right
-      title: Duhamel Lab
-      sub_title: Undergraduate Research Assistant
-      caption: May 2017 - present
-      link: https://uwaterloo.ca/chemistry/people-profiles/jean-duhamel
-  #         quote: >
-  #            Molecular Spectroscopy, Polymer Structure Characterization Waterloo, Canada
-      description: | # this will include new lines to allow paragraphs
-        - Hands on experiences with organic synthesis, and purification methods such as dialysis, precipitation and freeze-dry.
-        - Applied UV, steady-state and time-resolved PL to characterize the content of the dyes and the ratio of excimer to 
-          monomer contributions to the total fluorescence spectra.
-        - Adopted home-written Fluorescence Blob Model (FBM) to simulate and analyze the kinetics of the polymer chain movement.
+    layout: left
+    title: Duhamel Lab
+    sub_title: Undergraduate Research Assistant
+    caption: May 2017 - present
+    link: https://uwaterloo.ca/chemistry/people-profiles/jean-duhamel
+#         quote: >
+#            Molecular Spectroscopy, Polymer Structure Characterization Waterloo, Canada
+    description: | # this will include new lines to allow paragraphs
+      - Hands on experiences with organic synthesis, and purification methods such as dialysis, precipitation and freeze-dry.
+      - Applied UV, steady-state and time-resolved PL to characterize the content of the dyes and the ratio of excimer to 
+        monomer contributions to the total fluorescence spectra.
+      - Adopted home-written Fluorescence Blob Model (FBM) to simulate and analyze the kinetics of the polymer chain movement.
   
   - title: Education
     layout: list

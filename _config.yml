@@ -145,8 +145,8 @@ content:
           Bachelor of Science in Chemistry
           
   - title: Skills 
-    layout: list
-    description: | # this will include new lines to allow paragraphs
+    layout: text
+    content: | # this will include new lines to allow paragraphs
       - Coding languages: Python, Matlab
       - Softwares: Zemanx, LabVIEW, Microsoft office, autoCAD (entry level)
       - Languages: Chinese (Native), English (Proficient)

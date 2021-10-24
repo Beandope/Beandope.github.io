@@ -120,8 +120,8 @@ content:
   #            Molecular Spectroscopy, Polymer Structure Characterization Waterloo, Canada
         description: | # this will include new lines to allow paragraphs
           Ph.D Candidate in physical chemistry, specialized in nonlinear, ultrafast spectroscopy, and solid-state physics.
-#     content:
-      - layout: right
+
+      - layout: left
         title: University of Waterloo
         caption: July 2016 - April 2018
         description: |
@@ -129,10 +129,10 @@ content:
         
 
   - title: Publication
-    layout: list
+    layout: text
     content: | # this will include new lines to allow paragraphs
-      - Venkatesh, Rahul, <Yulong Zheng>, Campbell Viersen, Aaron Liu, Carlos Silva, Martha Grover, and Elsa Reichmanis. "Data Science Guided Experiments Identify Conjugated Polymer 
-        Solution Concentration as a Key Parameter in Device Performance." [ACS Materials Letters 3, no. 9 (2021): 1321-1327.](https://pubs.acs.org/doi/abs/10.1021/acsmaterialslett.1c00320)
+      Venkatesh, Rahul, <mark>Yulong Zheng<\mark>, Campbell Viersen, Aaron Liu, Carlos Silva, Martha Grover, and Elsa Reichmanis. "Data Science Guided Experiments Identify Conjugated Polymer 
+      Solution Concentration as a Key Parameter in Device Performance." [ACS Materials Letters 3, no. 9 (2021): 1321-1327.](https://pubs.acs.org/doi/abs/10.1021/acsmaterialslett.1c00320)
       
       
 # Footer

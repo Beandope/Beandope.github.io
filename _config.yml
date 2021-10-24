@@ -66,16 +66,31 @@ content:
             url: https://github.com/Beandope/UV_and_PL
 #         quote: >
 #           Short overview of the project (optional)
-        description: | # this will include new lines to allow paragraphs
-          This work focuses on understanding the charge screening effects in the blended pi-conjugated polymer systems. P3HTs are one of the classical material templates 
-          used for testing the electronic and optical properties of polymer semiconductors. Here, the P3HTs are blended with ionic liquid, as prepared by Seong-Min Kim, 
-          a previous postdoc from [Dr. Stingelin lab](http://stingelin-lab.gatech.edu). The blended solutions are casted at different temperatures to control the polymer-ionic
-          liquid mixing:
+        description: | 
+          This work focuses on understanding the charge screening effects in the blended pi-conjugated polymer systems. P3HTs are one of the 
+          classical material templates used for testing the electronic and optical properties of polymer semiconductors. Here, the P3HTs are 
+          blended with ionic liquid, as prepared by Seong-Min Kim, a previous postdoc from [Dr. Stingelin lab](http://stingelin-lab.gatech.edu). 
+          The blended solutions are casted at different temperatures to control the polymer-ionic liquid mixing:
           - Performed steady-state and temperature-dependent PL to examine the exciton interchain interactions and bandwidths.
           - Developed a Python script based on Franck-Condon progression to simulate and extract essential spectral parameters.
           - Conducted TCSPC and Fluorescence Upconversion measurements to investigate the exciton dynamics from femto-microsecond time range.
           - Built an extended free-space beam path for the ability to measure time-resolved PL under a large range of temperatures.
      
+      - layout: right
+        title: Exciton Dynamics in Elctron Push-Pull Polymers
+        description: |
+          Electron push-pull polymers or donor-acceptor (D-A) conjugated polymers are a type of novel polymer semiconductor candidates
+          that have attracted significant amount of attention due to their order of magnitude-higher field-effect charge mobility compared
+          to their homoconjugated counterparts. Unlike the traditional conjugated homopolymers, polymers of this kind are composed of 
+          monomeric units of electron-sufficient and -deficient domains. The strong charge-transfer character mixes with localized Frenkel-like 
+          excitons, which leads to multiple exciton bands throughout the near IR-visible wavelengths. The charge-transfer character has 
+          also leads to a non-singlet spin responses. Here, I selected an uprising D-A polymer template, [<mark>DPP-DTT</mark>](https://www.ossila.com/products/dpp-dtt-polymer)
+          and the thin films are deposited through solutions of a concentration gradient, thus the excitonic interchain interaction
+          could be tuned:
+          - Conducted TA measurements to probe the excited-state landscapes of electron push-pull polymers.
+          - Scripted Python codes to analyze and visualize 2D data matrices as well as spectral and temporal distributions.
+          - Redesigned and built collinear TA from nonlinear geometry to accomodate small-NA magneto-optical module.
+          
   - title: Experiences
     layout: list
     content:

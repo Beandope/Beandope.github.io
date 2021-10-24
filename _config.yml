@@ -94,9 +94,9 @@ content:
             cross-polarized optical microscopy (CPOM).
           - Experiences in building simulation models in calculating optical features of organic semiconductor polymers as well as data analysis and visualization using Python.
   
-  - title: 
-    layout: list
-    content:
+#   - title: 
+#     layout: list
+   - content:
       - layout: right
         title: Duhamel Lab
         sub_title: Undergraduate Research Assistant

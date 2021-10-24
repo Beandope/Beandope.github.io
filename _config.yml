@@ -123,6 +123,9 @@ content:
     content:
       - layout: right
         title: University of Waterloo
+        caption: July 2016 - April 2018
+        description: |
+          Bachelor of Science in Chemistry
         
 
   - title: Publication

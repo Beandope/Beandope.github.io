@@ -110,17 +110,17 @@ content:
             monomer contributions to the total fluorescence spectra.
           - Adopted home-written Fluorescence Blob Model (FBM) to simulate and analyze the kinetics of the polymer chain movement.
   
- - title: Education
-   layout: list
-   content:
-     - layout: right
-       title: Georgia Institute of Technology
-       sub_title: 
-       caption: August 2018 - present
-#         quote: >
-#           Short institution or course description (optional)
-       description: | 
-          Ph.D. Candidate in Physical Chemistry, specialized in nonlinear, ultrafast spectroscopy, solid-state physics.
+#  - title: Education
+#    layout: list
+#    content:
+#      - layout: right
+#        title: Georgia Institute of Technology
+#        sub_title: 
+#        caption: August 2018 - present
+# #         quote: >
+# #           Short institution or course description (optional)
+#        description: | 
+#           Ph.D. Candidate in Physical Chemistry, specialized in nonlinear, ultrafast spectroscopy, solid-state physics.
 #  - title: University of Waterloo
 #    content:
 #      - layout:

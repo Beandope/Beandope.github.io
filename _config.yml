@@ -81,11 +81,11 @@ content:
     layout: list
     content:
       - layout: right
-        title: Silva Lab(https://silva.chemistry.gatech.edu)
+        title: <Silva Lab>
         sub_title: Graduate Research Assistant
         caption: April 2019 - present
-#         link: Link to company (optional)
-#         quote: >
+        link: [Silva Lab](https://silva.chemistry.gatech.edu)
+        quote: >
 #           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
           - Hands-on experiences on linear and nonlinear high harmonic generation with amplified laser systems, OPA and NOPA, to create high-power and broad-bandwidth pulses.
@@ -99,10 +99,10 @@ content:
     layout: list
     content:
       - layout: right
-        title: [<Duhamel Lab>](https://uwaterloo.ca/chemistry/people-profiles/jean-duhamel)
+        title: <Duhamel Lab>
         sub_title: Undergraduate Research Assistant
         caption: May 2017 - present
-#         link: Link to company (optional)
+        link: [Profile for Dr. Jean Duhamel](https://uwaterloo.ca/chemistry/people-profiles/jean-duhamel)
 #         quote: >
 #            Molecular Spectroscopy, Polymer Structure Characterization Waterloo, Canada
         description: | # this will include new lines to allow paragraphs

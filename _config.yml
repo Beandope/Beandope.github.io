@@ -76,14 +76,13 @@ content:
           - Conducted TCSPC and Fluorescence Upconversion measurements to investigate the exciton dynamics from femto-microsecond time range.
           - Built an extended free-space beam path for the ability to measure time-resolved PL under a large range of temperatures.
      
-#         title： Exciton Dynamics in Electron Push-Pull Polymers
 
         
   - title: Experience
     layout: list
     content:
       - layout: right
-        title: Silva Lab
+        title: [<Silva Lab>](https://silva.chemistry.gatech.edu/)
         sub_title: Graduate Research Assistant
         caption: April 2019 - present
 #         link: Link to company (optional)
@@ -91,15 +90,17 @@ content:
 #           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
           - Hands-on experiences on linear and nonlinear high harmonic generation with amplified laser systems, OPA and NOPA, to create high-power and broad-bandwidth pulses.
-          - Extensive working experiences with free-space nonlinear, ultrafast spectroscopy systems, such as transient absorption (TA), time-correlated single photon counting (TCSPC), fluorescence upconversion, photoluminescence (PL)-detected two-dimensional electronic spectroscopy.
-          - Hands-on experiences on optical metrology measurements such as absorption and PL spectroscopy, atomic force microscopy (AFM), dynamic and static light scattering (DLS/SLS), cross-polarized optical microscopy (CPOM).
+          - Extensive working experiences with free-space nonlinear, ultrafast spectroscopy systems, such as transient absorption (TA), time-correlated single photon counting (TCSPC), 
+            fluorescence upconversion, photoluminescence (PL)-detected two-dimensional electronic spectroscopy.
+          - Hands-on experiences on optical metrology measurements such as absorption and PL spectroscopy, atomic force microscopy (AFM), dynamic and static light scattering (DLS/SLS), 
+            cross-polarized optical microscopy (CPOM).
           - Experiences in building simulation models in calculating optical features of organic semiconductor polymers as well as data analysis and visualization using Python.
   
   - title: 
     layout: list
     content:
       - layout: right
-        title: Duhamel Lab
+        title: [<Duhamel Lab>](https://uwaterloo.ca/chemistry/people-profiles/jean-duhamel)
         sub_title: Undergraduate Research Assistant
         caption: May 2017 - present
 #         link: Link to company (optional)
@@ -107,7 +108,8 @@ content:
 #            Molecular Spectroscopy, Polymer Structure Characterization Waterloo, Canada
         description: | # this will include new lines to allow paragraphs
           - Hands on experiences with organic synthesis, and purification methods such as dialysis, precipitation and freeze-dry.
-          - Applied UV, steady-state and time-resolved PL to characterize the content of the dyes and the ratio of excimer to monomer contributions to the total fluorescence spectra.
+          - Applied UV, steady-state and time-resolved PL to characterize the content of the dyes and the ratio of excimer to 
+            monomer contributions to the total fluorescence spectra.
           - Adopted home-written Fluorescence Blob Model (FBM) to simulate and analyze the kinetics of the polymer chain movement.
   
   - title: Education
@@ -122,13 +124,13 @@ content:
         description: | # this will include new lines to allow paragraphs
           Specialized in nonlinear, ultrafast spectroscopy, solid-state physics.
  
-  - title: A Little More About Me
+  - title: Publication
     layout: text
     content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
-
+      - [Venkatesh, Rahul, <Yulong Zheng>, Campbell Viersen, Aaron Liu, Carlos Silva, Martha Grover, and Elsa Reichmanis. "Data Science Guided Experiments Identify Conjugated Polymer 
+          Solution Concentration as a Key Parameter in Device Performance." ACS Materials Letters 3, no. 9 (2021): 1321-1327.](https://pubs.acs.org/doi/abs/10.1021/acsmaterialslett.1c00320)
+      
+      
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)

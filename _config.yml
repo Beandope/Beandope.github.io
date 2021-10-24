@@ -67,8 +67,8 @@ content:
 #         quote: >
 #           Short overview of the project (optional)
         description: | 
-          This work focuses on understanding the charge screening effects in the blended pi-conjugated polymer systems. P3HTs are one of the 
-          classical material templates used for testing the electronic and optical properties of polymer semiconductors. Here, the P3HTs are 
+          This work focuses on understanding the charge screening effects in the blended pi-conjugated polymer systems. <mark>P3HTs</mark>(https://www.ossila.com/products/p3ht)
+          are one of the classical material templates used for testing the electronic and optical properties of polymer semiconductors. Here, the P3HTs are 
           blended with ionic liquid, as prepared by Seong-Min Kim, a previous postdoc from [Dr. Stingelin lab](http://stingelin-lab.gatech.edu). 
           The blended solutions are casted at different temperatures to control the polymer-ionic liquid mixing:
           - Performed steady-state and temperature-dependent PL to examine the exciton interchain interactions and bandwidths.

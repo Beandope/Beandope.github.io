@@ -121,19 +121,7 @@ content:
 #           Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
           Specialized in nonlinear, ultrafast spectroscopy, solid-state physics.
-  
-    - title: 
-    layout: list
-    content:
-      - layout: top-right
-        title: Georgia Institute of Technology
-        sub_title: Ph.D. Candidate in Physical Chemistry
-        caption: August 2018 - present
-#         quote: >
-#           Short institution or course description (optional)
-        description: | # this will include new lines to allow paragraphs
-          Specialized in nonlinear, ultrafast spectroscopy, solid-state physics.
-          
+ 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs

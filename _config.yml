@@ -81,7 +81,7 @@ content:
     layout: list
     content:
       - layout: right
-        title: <Silva Lab>
+        title: Silva Lab
         sub_title: Graduate Research Assistant
         caption: April 2019 - present
         link: [Silva Lab](https://silva.chemistry.gatech.edu)
@@ -99,7 +99,7 @@ content:
     layout: list
     content:
       - layout: right
-        title: <Duhamel Lab>
+        title: Duhamel Lab
         sub_title: Undergraduate Research Assistant
         caption: May 2017 - present
         link: [Profile for Dr. Jean Duhamel](https://uwaterloo.ca/chemistry/people-profiles/jean-duhamel)

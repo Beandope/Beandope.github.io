@@ -109,7 +109,18 @@ content:
           - Applied UV, steady-state and time-resolved PL to characterize the content of the dyes and the ratio of excimer to 
             monomer contributions to the total fluorescence spectra.
           - Adopted home-written Fluorescence Blob Model (FBM) to simulate and analyze the kinetics of the polymer chain movement.
-  
+
+  - title: Education 
+      layout: list
+      content:
+        - layout: right
+          title: Georgia Institute of Technology
+          caption: August 2018 - present
+          link: https://uwaterloo.ca/chemistry/people-profiles/jean-duhamel
+    #         quote: >
+    #            Molecular Spectroscopy, Polymer Structure Characterization Waterloo, Canada
+          description: | # this will include new lines to allow paragraphs
+            Ph.D Candidate in physical chemistry, specialized in nonlinear, ultrafast spectroscopy, and solid-state physics.
 #  - title: Education
 #    layout: list
 #    content:

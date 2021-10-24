@@ -76,7 +76,7 @@ content:
           - Conducted TCSPC and Fluorescence Upconversion measurements to investigate the exciton dynamics from femto-microsecond time range.
           - Built an extended free-space beam path for the ability to measure time-resolved PL under a large range of temperatures.
      
-  - title: Experience
+  - title: Experiences
     layout: list
     content:
       - layout: right
@@ -113,18 +113,23 @@ content:
   - title: Education
     layout: list
     content:
-      - layout: top-right
+      - layout: right
         title: Georgia Institute of Technology
-        sub_title: Ph.D. Candidate in Physical Chemistry
+        sub_title: 
         caption: August 2018 - present
 #         quote: >
 #           Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
-          Specialized in nonlinear, ultrafast spectroscopy, solid-state physics.
+          Ph.D. Candidate in Physical Chemistry, specialized in nonlinear, ultrafast spectroscopy, solid-state physics.
+ - title: University of Waterloo
+   layout: right
+   
+ 
  
   - title: Publication
     layout: list
     content: | # this will include new lines to allow paragraphs
+    
       - Venkatesh, Rahul, <Yulong Zheng>, Campbell Viersen, Aaron Liu, Carlos Silva, Martha Grover, and Elsa Reichmanis. "Data Science Guided Experiments Identify Conjugated Polymer 
         Solution Concentration as a Key Parameter in Device Performance." [ACS Materials Letters 3, no. 9 (2021): 1321-1327.](https://pubs.acs.org/doi/abs/10.1021/acsmaterialslett.1c00320)
       

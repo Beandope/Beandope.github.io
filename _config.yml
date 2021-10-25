@@ -129,17 +129,20 @@ content:
     layout: list
     content:
       - layout: right
-        title: Georgia Institute of Technology
+        title: 
+        subtitle: Georgia Institute of Technology
         caption: August 2018 - present
         description: | # this will include new lines to allow paragraphs
           Ph.D Candidate in physical chemistry, specialized in nonlinear, ultrafast spectroscopy, and solid-state physics.
       - layout: right
-        title: University of Waterloo
+        title: 
+        subtitle: University of Waterloo
         caption: July 2016 - April 2018
         description: |
           Bachelor of Science in Chemistry
       - layout: right
-        title: Huazhong University of Science and Technology
+        title: 
+        subtitle: Huazhong University of Science and Technology
         caption: September 2014 - June 2016
         description: |
           Bachelor of Science in Chemistry

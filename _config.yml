@@ -79,7 +79,6 @@ content:
       - layout: right
         title: Exciton Dynamics in Elctron Push-Pull Polymers
         description: |
-          Electron push-pull polymers or donor-acceptor (D-A) conjugated polymers are a type of novel polymer semiconductor candidates
           that have attracted significant amount of attention due to their order of magnitude-higher field-effect charge mobility compared
           to their homoconjugated counterparts. Unlike the traditional conjugated homopolymers, polymers of this kind are composed of 
           monomeric units of electron-sufficient and -deficient domains. The strong charge-transfer character mixes with localized Frenkel-like 
@@ -93,6 +92,10 @@ content:
         
       - layout: left
         title: Data Science Guided Construction of Structure-Property Relationship
+        additional_links:
+          - title: Literature Database
+            icon: fab fa-github
+            url: https://github.com/Beandope/Reduced_Design_Region_Classification_DPPDTT_OFETs
         description: |
           This project is a collaboration work with Rahul Venkatesh, a third-year Ph.D. student from [Dr. Elsa Reichmanis](https://wordpress.lehigh.edu/reichmanisgroup/)'s group
           By utilizing a classification algorithm to screen a data set, composed of processing conditions and electronic properties

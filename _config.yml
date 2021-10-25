@@ -90,6 +90,20 @@ content:
           - Conducted TA measurements to probe the excited-state landscapes of electron push-pull polymers.
           - Scripted Python codes to analyze and visualize 2D data matrices as well as spectral and temporal distributions.
           - Redesigned and built collinear TA from nonlinear geometry to accomodate small-NA magneto-optical module.
+        
+      - layout: left
+        title: Data Science Guided Construction of Structure-Property Relationship
+        description: |
+          This project is a collaboration work with Rahul Venkatesh, a third-year Ph.D. student from [Dr. Elsa Reichmanis](https://wordpress.lehigh.edu/reichmanisgroup/)'s group
+          By utilizing a classification algorithm to screen a data set, composed of processing conditions and electronic properties
+          from 115 organic field-effect transistors from 15 publications, an ideal polymer concentration regime (~5 g/L) has been recognized from the
+          algorithm. Interestingly, 5 g/L is also found to be the critical chain overlap point of the conjugatd polymers in chlorobenzene.
+          Then, thin film transistors are fabricated with different concentrations for experimental testing. The experimental results conformed to
+          the theoretical prediction.
+          - Conducted viscosity measurements on the conjugated polymer solutions, discovering dilute and semidilute regimes.
+          - Performed optoelectronic characterizations of thin-film samples, including UV-Vis absorption and OFET measurements.
+          - Aided a construction of a dataset comprising of processing and performance metrics through broad literature searching.
+          - Interacted with cross-functional groups for the accomplishment of a final paper publication.
           
   - title: Experiences
     layout: list
@@ -130,19 +144,19 @@ content:
     content:
       - layout: right
         title: 
-        subtitle: Georgia Institute of Technology
+        sub_title: Georgia Institute of Technology
         caption: August 2018 - present
         description: | # this will include new lines to allow paragraphs
           Ph.D Candidate in physical chemistry, specialized in nonlinear, ultrafast spectroscopy, and solid-state physics.
       - layout: right
         title: 
-        subtitle: University of Waterloo
+        sub_title: University of Waterloo
         caption: July 2016 - April 2018
         description: |
           Bachelor of Science in Chemistry
       - layout: right
         title: 
-        subtitle: Huazhong University of Science and Technology
+        sub_title: Huazhong University of Science and Technology
         caption: September 2014 - June 2016
         description: |
           Bachelor of Science in Chemistry

@@ -80,7 +80,7 @@ content:
 
       - layout: right
         title: Exciton Delocalization and Chain Conformation in Electron Push-Pull Polymers
-        Description: |
+        description: |
           Electron push-pull polymers have attracted a significant amount of attention due to their order of magnitude-higher field-effect charge mobility compared
           to their homoconjugated counterparts. Unlike the traditional conjugated homopolymers, polymers of this kind are composed of 
           monomeric units of electron-sufficient and -deficient domains. The strong charge-transfer character mixes with localized Frenkel-like 
@@ -95,7 +95,6 @@ content:
           
       - layout: left
         title: Exciton-Exciton Annihilation in Electron Push-Pull Conjugated Polymers
-           Short overview of the project (optional)
         description: | 
            EEA has known to dominate the early life-time (~10-100 ps) dynamics. Two possible mechanisms are widely applied and 
            discussed: previously, two mechanisms have been proposed to explain the annihilation process: one is that the annihilation is achieved through F$\"o$rster-type long-range Coulombic interaction. Due to the random 
@@ -109,6 +108,7 @@ content:
       - layout: right
         title: Excitonic Coulombic Interactions, Multimode Exciton-Phonon Coupling, Biexciton and Many-body Interactions Revealed by the Two-Dimensional Coherent Spectroscopy.
         description: |
+          Yet more to come
           
            
 

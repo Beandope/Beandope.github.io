@@ -228,7 +228,7 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       - Coding languages: Python, Matlab
-      - Softwares: Zemanx, LabVIEW, Microsoft office, autoCAD (entry level)
+      - Softwares: LabVIEW, Mathematica, LaTeX, Sentaurus Lithography, Microsoft office, autoCAD (entry level)
       - Languages: Chinese (Native), English (Proficient)
 
   - title: Publication

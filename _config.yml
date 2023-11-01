@@ -140,10 +140,10 @@ content:
         sub_title: Intern - Photolithography Process Development Engineer
         caption: May 2023 - August 2023
         description: |
-        - Developed a mechanical kernel model based on literature to simulate the experimental observations with Python.
-        - Assisted the senior process engineer in analyzing the relationships of the pattern misalignment of wafer metrology data using JMP and Python.
-        - Generated a topographical model based on realistic wafer layouts to simulate pattern failure using Sentaurus Lithography. 
-        - Organized the research results into presentations for the internal design group and wrote a detailed pass-down document for future development.
+          - Developed a mechanical kernel model based on literature to simulate the experimental observations with Python.
+          - Assisted the senior process engineer in analyzing the relationships of the pattern misalignment of wafer metrology data using JMP and Python.
+          - Generated a topographical model based on realistic wafer layouts to simulate pattern failure using Sentaurus Lithography. 
+          - Organized the research results into presentations for the internal design group and wrote a detailed pass-down document for future development.
 
     layout: list
     content:
@@ -152,9 +152,9 @@ content:
         sub_title: Training Staff
         caption: May 2022 - September 2023
         description: |
-        - Aided technical staff to install new modules for the GC/MS and time-resolved PL.
-        - Trained new users on the material characterization techniques, including UV-Vis, steady-state and time-resolved PL, FTIR spectroscopy, DLS and GC/MS.
-        - Created and updated user manuals for the instruments, as well as daily maintenance and troubleshooting.
+          - Aided technical staff to install new modules for the GC/MS and time-resolved PL.
+          - Trained new users on the material characterization techniques, including UV-Vis, steady-state and time-resolved PL, FTIR spectroscopy, DLS and GC/MS.
+          - Created and updated user manuals for the instruments, as well as daily maintenance and troubleshooting.
 
   
     layout: list
@@ -164,7 +164,7 @@ content:
         sub_title: Graduate Research Assistant
         caption: April 2019 - present
         link: https://silva.chemistry.gatech.edu
-        quote: >
+        # quote: >
 #           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
           - Hands-on experiences on linear and nonlinear high harmonic generation with amplified laser systems, OPA and NOPA, to create high-power and broad-bandwidth pulses.
@@ -179,7 +179,7 @@ content:
         caption: April 2019 - present 
         link: https://wordpress.lehigh.edu/reichmanisgroup/
         quote: >
-          Dr. Reichmanis has moved to Lehigh university Nov. 2019, however the supervision and collaboration is still on-going.
+          Dr. Reichmanis moved to Lehigh University Nov. 2019, however the supervision and collaboration is still on-going.
         description: |
           - Hands-on experience with spin coating and wire-bar coating. 
           - Experiences in working in clean room for organic field-effect transistor fabrications.
@@ -234,7 +234,7 @@ content:
   - title: Publication
     layout: text
     content: | # this will include new lines to allow paragraphs
-      please see my Google Scholar profile (https://scholar.google.com/citations?user=pcLymh4AAAAJ&hl=en)
+      # please see my Google Scholar profile (https://scholar.google.com/citations?user=pcLymh4AAAAJ&hl=en)
       # Venkatesh, Rahul, <mark>Yulong Zheng</mark>, Campbell Viersen, Aaron Liu, Carlos Silva, Martha Grover, and Elsa Reichmanis. "Data Science Guided Experiments Identify Conjugated Polymer 
       # Solution Concentration as a Key Parameter in Device Performance." [ACS Materials Letters 3, no. 9 (2021): 1321-1327.](https://pubs.acs.org/doi/abs/10.1021/acsmaterialslett.1c00320)
       
